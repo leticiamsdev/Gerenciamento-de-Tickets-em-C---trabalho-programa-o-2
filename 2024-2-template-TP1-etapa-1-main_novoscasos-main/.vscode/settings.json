@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ticket.h": "c",
+        "manutencao.h": "c",
+        "software.h": "c",
+        "tecnico.h": "c",
+        "fila.h": "c",
+        "usuario.h": "c"
+    }
+}

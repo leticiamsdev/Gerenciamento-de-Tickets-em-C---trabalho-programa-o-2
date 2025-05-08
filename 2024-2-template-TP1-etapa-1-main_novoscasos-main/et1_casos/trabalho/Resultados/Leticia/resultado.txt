@@ -1,0 +1,25 @@
+Arquivos Esperados Corretos: 7 de 7
+Pastas Compiladas Corretamente: 5 de 5 
+Pastas Linkadas Corretamente: 5 de 5
+Teste main
+  - Resultados corretos: 9 de 12
+  - Valgrinds corretos: 12 de 12
+Nota de Leticia para o teste main: 5.62
+Teste completo
+  - Resultados corretos: 9 de 12
+  - Valgrinds corretos: 12 de 12
+Nota de Leticia para o teste completo: 0
+Teste fila
+  - Resultados corretos: 12 de 12
+  - Valgrinds corretos: 12 de 12
+Nota de Leticia para o teste fila: 1.00
+Teste ticket
+  - Resultados corretos: 12 de 12
+  - Valgrinds corretos: 12 de 12
+Nota de Leticia para o teste ticket: 1.00
+Teste software
+  - Resultados corretos: 12 de 12
+  - Valgrinds corretos: 12 de 12
+Nota de Leticia para o teste software: .50
+Nota de Leticia: 0+(0)+(1.00)+(5.62)+(1.00)+(.50)
+Nota de Leticia: 8.12

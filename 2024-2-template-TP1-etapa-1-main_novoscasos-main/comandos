@@ -1,0 +1,1 @@
+gcc atores.c data.c fila.c main.c manutencao.c outros.c sistema.c software.c tecnico.c ticket.c usuario.c -o prog
